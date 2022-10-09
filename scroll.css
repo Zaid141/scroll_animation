@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    background-color: whitesmoke;
+    text-align:left;
+}
+
+.child {
+    height: 500px;
+    width: 50%;
+    margin: 5%;
+    border: 2px solid black;
+}
+
+.welcome{
+    width: 100vw;
+    height: 10vh;
+    background-color: lightblue;
+}
+
+.topic{
+    font-size:x-large;
+    position:absolute;
+    text-align: center;
+    left: 600px;
+}
+
+.topics{
+    position: relative;
+    position: absolute;
+    left: 900px;
+    bottom: 500px;
+    font-size: large;
+}
+
+.topics_1{
+    position: relative;
+    position: absolute;
+    left: 900px;
+    top: 1000px;
+    font-size: large;
+}
+
+.topics_2{
+    position: relative;
+    position: absolute;
+    left: 900px;
+    top: 1600px;
+    font-size: large;
+}
